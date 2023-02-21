@@ -1,0 +1,62 @@
+<!doctype html>
+<html>
+<head>
+<title> About Us </title>
+</head>
+<body>
+<p>
+<table cellspacing="20">
+<tr>
+   <td> <img src="https://global.discourse-cdn.com/sitepoint/original/3X/b/5/b59a78e2ed76c705f3c0dcb300f3f222aefdcd99.png" width="500" height="250"> </td>
+   <td> <img src="https://intelog.net/wp-content/uploads/2019/05/Web-Development0.jpg" width="300" height="250"> </td>
+   <td> <h1> About Us </h1> <br> <h3> Web Product Development and Managment (2022/23) </h3> 
+   <p> When we talk about building a digital product I can’t help but think of parallels with construction, as creating a digital product is similar to building a house in many ways. And such parallels seem especially obvious when we talk about product management and product development. Product management is close to planning and managing construction while product development is similar to the construction process itself. </td>
+</tr>
+</table>
+</body>
+</p>
+<style>
+table, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+</style>
+<table style="100" cellspacing="10">
+<tr>
+   <th> Group G35 </th>
+</tr>
+<tr>
+   <td> Name </td>
+   <td> ID </td>
+   <td> Email ID </td>
+<tr>
+   <td> Rohith Naidu </td>
+   <td> UP2176974 </td>
+   <td> up2176974@myport.ac.uk </td>
+</tr>
+<tr>
+   <td> Durga Prasad </td>
+   <td> UP2175254 </td>
+   <td> up2175254@myport.ac.uk </td>
+<tr>
+   <td> Sanjana Reddy </td>
+   <td> UP2180130 </td>
+   <td> up2180130@myport.ac.uk </td>
+</tr>
+<tr>
+   <td> Ghufran Ali </td>
+   <td> UP2174946 </td>
+   <td> up2174946@myport.ac.uk </td>
+</tr>
+<tr>
+   <td> Adebayo Olalere Oyedele </td>
+   <td> UP2189631 </td>
+   <td> up2189631@myport.ac.uk </td>
+</tr>
+<tr>
+   <td> Elizabeth Omowumi Akintola </td>
+   <td> UP2179683 </td>
+   <td> up2179683@myport.ac.uk </td>
+</tr>
+</table>
+</html>
